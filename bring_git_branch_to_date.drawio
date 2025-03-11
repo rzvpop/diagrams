@@ -43,7 +43,7 @@
             <mxPoint x="437" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htVWsCmEMldjObqeJuxm-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3, 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="htVWsCmEMldjObqeJuxm-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;3, 4, 5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="htVWsCmEMldjObqeJuxm-16" value="&lt;ol&gt;&lt;li&gt;git checkout master&lt;/li&gt;&lt;li&gt;git pull&amp;nbsp; origin master&lt;/li&gt;&lt;li&gt;git checkout my_branch&lt;/li&gt;&lt;li&gt;git merge master&lt;/li&gt;&lt;li&gt;resolve conflicts and commit (optional)&lt;/li&gt;&lt;li&gt;git push origin my_branch&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" parent="1" vertex="1">
@@ -55,7 +55,7 @@
             <mxPoint x="437" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="htVWsCmEMldjObqeJuxm-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;5, 6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="htVWsCmEMldjObqeJuxm-18" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;6&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="427" y="270" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
